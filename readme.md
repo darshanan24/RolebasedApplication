@@ -7,14 +7,6 @@
 
 A nodejs server api for user authentication and use react to design frontend
 
-## [Demo Site](https://user-authentication-nodejs.herokuapp.com/) ##
-
-## Heroku Deployment ##
-
-You can quickly setup a sample heroku application by clicking the button below.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 ## Requirement ##
 * [MongoDB](https://www.mongodb.com/) - Our Database v3.2
 * [Expressjs](http://expressjs.com/zh-tw/) - API Server
